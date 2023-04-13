@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.container{
+    max-width: 1000px;
+    margin: auto;
+    padding-top: 30px;
+    margin-bottom: 40px;
+  }
+.avatar{
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+  margin: 0;
+  }
+.info-text{
+  margin-left: 50px;
+}
+.info{
+  display: flex;
+}
+.info-text p{
+    color: 0;
+      margin: 0;
+      font-style: italic;
+      font-weight: bold;
+      text-decoration: none;
+   } 
+
+.info-text21 h1 {
+    text-align:center;
+    width: 100%;
+ } 
+.study{
+    display: flex;
+    text-align: center;
+    border: 1px solid black ;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;  
+    width: 1000px;
+    margin-bottom: 40px;
+  }
+
+.table td{
+    padding-bottom: 40px;
+}
+.info-text21{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 40px;
+
+}
+.study h1{
+  text-align:center;
+  width: 100%;
+}
+.block{
+  text-align: center;
+}
+.study {
+  display: flex;
+  text-align: center;
+  border: 2px solid black ;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;  
+  width: 1000px;
+  margin-bottom: 40px;
+}
+.curs table thead th{
+  border-bottom: 1px solid black; 
+  padding-inline: 70px; 
+  margin-block: 30px;
+  padding-block: 20px;
+}
+.bebra a{
+  white-space:  
+}
+.contacts{
+  display:flex;
+  flex-direction: column-reverse;
+}
+.contacts-one{
+  display:flex;
+  flex-direction: column-reverse;
+  margin-left: 55px;
+}
+.contacts-two{
+  display:flex;
+  flex-direction: column-reverse;
+  margin-left: 55px;
+}
+.contacts-three{
+  display:flex;
+  flex-direction: column-reverse;
+  margin-left: 55px;
+}
+.bebra{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
